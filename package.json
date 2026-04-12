@@ -1,6 +1,6 @@
 {
   "name": "@enso-ui/user-groups",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "description": "Basic user groups package",
   "main": "bulma/index.js",
   "repository": {
